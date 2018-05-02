@@ -1,0 +1,24 @@
+Characters(Name, Weight)
+Deeno - Dinosar Suit, Heavy
+Zoog - Servant Orc , Mid-Heavy
+Pimp Walris - Lord Of All, Heavy
+Sumt - The Dragon, Light
+Rock Man - The interdimentional Demon, Heavy
+Ken Moose - The Undying Alchamist, Light
+Looman - The Girl Power, Mid
+Case - Ruthless Cop, Mid
+Sergio - The Artsitic Killer, Mid
+Drwafenstenn- The Dwarf, Heavy
+The Vampire, Mid
+The Human Knight, Heavy
+Locy Moose, Mid-Light
+Doctor Pestic, Light
+Dedachi - The Spirit, Mid
+The Magician, Light 
+
+Team Comps Story(Max of 3)
+Team 1: Denno, Looman, Ken Moos
+Team 2: Case, Sergio, Zoog
+Team 3: Drwafenstenn, Smut, The Vampire
+Team 4: Pimp Walris, Lucy Moose, Doctor Pestic
+Team 5: Rock Man , Dedachi, The Magician
