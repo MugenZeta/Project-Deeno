@@ -1,5 +1,5 @@
 Characters(Name, Weight)
-Deeno - Dinosar Suit, Heavy
+Deeno - Humunculis in Dinosar Suit, Heavy
 Zoog - Servant Orc , Mid-Heavy
 Pimp Walris - Lord Of All, Heavy
 Sumt - The Dragon, Light
