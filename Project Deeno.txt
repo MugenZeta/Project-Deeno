@@ -2,7 +2,7 @@ Characters(Name, Weight)
 Deeno - Humunculis in Dinosar Suit, Heavy
 Zoog - Servant Orc , Mid-Heavy
 Pimp Walris - Lord Of All, Heavy
-Sumt - The Dragon, Light
+Sumg - The Dragon, Light
 Rock Man - The interdimentional Demon, Heavy
 Ken Moose - The Undying Alchamist, Light
 Looman - The Girl Power, Mid
